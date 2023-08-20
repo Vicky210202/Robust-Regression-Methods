@@ -24,7 +24,7 @@ Huber loss is used in Huber regression. It combines the characteristics of both 
 In RANSAC, the regression model is iteratively fitted to random subsets of the data, and the model with the most inliers (data points that fit the model well) is selected. This approach effectively isolates outliers and minimizes their impact on the final model.
 
 #### Data :
-Tailor-made dataset for Demostrating this specific Topic .
+Tailor-made dataset for Demonstrating this specific Topic .
 
 #### Reference : 
 Dealing with Outliers Using Three Robust Linear Regression Models.,
