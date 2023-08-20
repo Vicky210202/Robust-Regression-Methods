@@ -12,7 +12,7 @@ R Studio --> For demonstrating how a General Robust Regression treats the data w
 
 Python - Jupyterbook - SciKit Learn and Matplotlib for using Robust methods mentioned above by Comparing with Simple Linear Regression (OLS)
 
-Note : All these files are enclosed in a folder Named Project_VH-2 
+Note : All these files are enclosed in a folder Named Project-VH_2 
 
 ### Robust Regression :
 Robust regression is a statistical technique used to model the relationship between variables in the presence of outliers or other types of noise in the data. Traditional linear regression methods, such as ordinary least squares (OLS), are sensitive to outliers, meaning that a few extreme data points can have a disproportionate impact on the fitted model. Robust regression methods aim to mitigate this issue by downweighting the influence of outliers, resulting in a more accurate estimation of the underlying relationship between variables.
